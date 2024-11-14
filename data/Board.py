@@ -19,8 +19,8 @@ def create_board():
                 Bishop('black'),
                 Gravedigger('black'),
                 Rook('black')]
-    board[1] = [Pawn('black')] * 8
-    board[6] = [Pawn('white')] * 8
+    # board[1] = [Pawn('black')] * 8
+    # board[6] = [Pawn('white')] * 8
     board[7] = [Rook('white'),
                 Knight('white'),
                 Goose('white'),

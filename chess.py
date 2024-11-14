@@ -31,6 +31,5 @@ def main():
             print("Игра завершена.")
             break
 
-
 if __name__ == "__main__":
     main()
